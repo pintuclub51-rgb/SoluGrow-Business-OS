@@ -1,0 +1,16 @@
+# Sensitive Data Ignore
+6-WhatsApp-Cloud-API/token.txt
+6-WhatsApp-Cloud-API/phone-number-id.txt
+7-Razorpay-Setup/key-id.txt
+7-Razorpay-Setup/key-secret.txt
+
+# System
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Node / Build (if used later)
+node_modules/
+dist/
+build/
